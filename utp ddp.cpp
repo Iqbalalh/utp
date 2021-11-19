@@ -110,6 +110,7 @@ int main(){
 	cout<<"Total Harga : Rp"<<(wahana[0]*a)+(wahana[1]*b)+(wahana[2]*c)+(wahana[3]*d)+(wahana[4]*e);
 	break;
 }
+	//rezanur
 	}
 	
 
