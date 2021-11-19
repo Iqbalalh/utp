@@ -26,7 +26,7 @@ void y(){
 	}
 }
 
-
+//rezanur
 
 int main(){
 	x();
