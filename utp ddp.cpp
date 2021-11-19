@@ -1,6 +1,7 @@
 #include <iostream>
 #include <windows.h>
 using namespace std;
+//iqbal 
 
 	void x(){
 	system ("color 3");
